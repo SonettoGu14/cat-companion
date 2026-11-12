@@ -69,7 +69,7 @@ float3 lit = baseColour * ndl * lightColour;
 ```
 
 `dot(N, L)` is the term from
-[vectors and the dot product](../foundations/vectors-and-dot-product.md): 1 when the
+[vectors and the dot product](../maths/vectors-and-dot-product.md): 1 when the
 surface faces the light, 0 at the terminator, clamped below that. Everything else in a
 more advanced lighting model — specular, ambient, shadows — is added on top of this line,
 not instead of it.

@@ -49,7 +49,7 @@ CAT105TC / CAT204TC / CAT207TC 三门课的**「不用开口的助教」**：学
 docs/
   index.{en,zh}.md          首页：定位 + 「先看哪一页」表
   start/scope.{en,zh}.md    使用说明与边界
-  foundations/              数学与引擎常识（向量与点乘已写）
+  maths/                    游戏里真正用到的数学（向量与点乘已写）
   shaders/                  着色器原理与效果分解
   xr/                       XR 尺度、舒适度、词汇
   glossary/                 四张术语表（数学与空间 / 渲染与着色器 / XR / C# 与 Unity）
@@ -58,6 +58,12 @@ mkdocs.yml                  nav、主题、i18n 插件
 pyproject.toml + uv.lock    依赖（uv 管理，勿用 pip/conda）
 .github/workflows/deploy.yml  push main → GitHub Pages
 ```
+
+**板块是主题，不是课程。** 每个 section 是一个独立主题 —— `maths/`（数学）、`shaders/`
+（着色器）、`xr/`，以后可能还有 `narrative/`（麦高芬、英雄之路、高概念这类叙事手法）。新增
+板块按主题命名，不要按课程或周次命名。正文也不依赖课程进度：一页只在「这个概念第一次出现在学生
+手上」时有用，跟它是第几周讲的无关。`docs/index.*.md` 的「先看哪一页」表是**唯一**允许把主题
+映射到课程情境的地方 —— 它是索引，不是结构。
 
 ## 5. 加一页
 
@@ -101,7 +107,7 @@ CI 跑的是同一个 `build --strict`。
 
 1. 更新 `docs/index.*.md` 的「先看哪一页」表里的课程编号和周次
 2. 按新出现的缺口加页（对应 section 表格里 planned → 已写）
-3. `foundations/` `shaders/` `glossary/` 的正文不需要动
+3. `maths/` `shaders/` `glossary/` 的正文不需要动
 
 ## 10. 写作口径
 

@@ -63,7 +63,7 @@ float  ndl = saturate(dot(N, L));
 float3 lit = baseColour * ndl * lightColour;
 ```
 
-`dot(N, L)` 就是[向量与点乘](../foundations/vectors-and-dot-product.md)里那一项：表面正对光时是
+`dot(N, L)` 就是[向量与点乘](../maths/vectors-and-dot-product.md)里那一项：表面正对光时是
 1，明暗交界处是 0，再往下被夹住。更复杂的光照模型里，高光、环境光、阴影，都是加在这一行**之上**，
 而不是替换它。
 

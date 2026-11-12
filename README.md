@@ -36,8 +36,8 @@ Before the first deploy, set **Settings → Pages → Build and deployment → S
 Every page is a pair of files, sharing the same stem:
 
 ```
-docs/foundations/vectors-and-dot-product.en.md
-docs/foundations/vectors-and-dot-product.zh.md
+docs/maths/vectors-and-dot-product.en.md
+docs/maths/vectors-and-dot-product.zh.md
 ```
 
 Then add a line to `nav:` in `mkdocs.yml` — **without** the locale suffix

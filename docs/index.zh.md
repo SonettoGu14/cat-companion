@@ -11,7 +11,7 @@ VR 的词汇，以及那些「查一下比问一句还快」的小参考。
 | 你手上正在做的事 | 看这页 |
 | --- | --- |
 | 做 Shader Graph 的作业（CAT105TC 第二学期，第 14–17 周） | [着色器里发生了什么](shaders/what-happens-in-a-shader.md) |
-| 做受击闪白、溶解、技能指示器（CAT204TC） | 先[着色器里发生了什么](shaders/what-happens-in-a-shader.md)，再[向量与点乘](foundations/vectors-and-dot-product.md) |
+| 做受击闪白、溶解、技能指示器（CAT204TC） | 先[着色器里发生了什么](shaders/what-happens-in-a-shader.md)，再[向量与点乘](maths/vectors-and-dot-product.md) |
 | 看到一个术语，对不上号 | [术语表](glossary/index.md) |
 | CAT207TC 实验课前配置 Pico 4 Ultra | [XR 概览](xr/index.md) |
 | 想知道这些内容算不算分 | [使用说明](start/scope.md) |
@@ -26,8 +26,11 @@ VR 的词汇，以及那些「查一下比问一句还快」的小参考。
 
 ## 站点怎么分
 
-- **[基础](foundations/index.md)** —— 三门课都默认你会、但都没讲的数学和引擎常识。公式看起来像
-  一堵墙的时候，从这里开始。
+每一块都是一个独立主题 —— 数学、着色器、XR —— 不是某一周的课，也不是某一次 lecture。
+这里的内容不跟课程进度走：某个概念在你手上出现的那一刻，那一页就值得读。
+
+- **[数学基础](maths/index.md)** —— 向量、矩阵、坐标空间、插值：着色器和脚本里真正用到的那点
+  数学。公式看起来像一堵墙的时候，从这里开始。
 - **[着色器](shaders/index.md)** —— 着色器到底在算什么，以及实验课上做的效果为什么是那个行为。
 - **[XR](xr/index.md)** —— 尺度、舒适度，以及 VR 用的那些词。
 - **[术语表](glossary/index.md)** —— 英文、中文、一句话解释。

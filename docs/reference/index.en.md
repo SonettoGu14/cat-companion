@@ -14,4 +14,4 @@ Nothing here yet. Planned pages:
 | Error messages → causes | planned | The Unity, C# and Shader Graph messages that mean something specific |
 
 The format rule for this section: a page is a table or a list, not an essay. If it needs
-prose, it belongs in Foundations or Shaders instead.
+prose, it belongs in Maths or Shaders instead.

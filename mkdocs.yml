@@ -78,7 +78,7 @@ plugins:
           nav_translations:
             Home: 首页
             How to use this site: 使用说明
-            Foundations: 基础
+            Maths: 数学基础
             Overview: 概览
             Vectors and the dot product: 向量与点乘
             Shaders: 着色器
@@ -90,9 +90,9 @@ plugins:
 nav:
   - Home: index.md
   - How to use this site: start/scope.md
-  - Foundations:
-      - Overview: foundations/index.md
-      - Vectors and the dot product: foundations/vectors-and-dot-product.md
+  - Maths:
+      - Overview: maths/index.md
+      - Vectors and the dot product: maths/vectors-and-dot-product.md
   - Shaders:
       - Overview: shaders/index.md
       - What happens in a shader: shaders/what-happens-in-a-shader.md
