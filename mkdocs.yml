@@ -1,0 +1,102 @@
+site_name: Game Dev Companion
+site_description: Extra, bilingual material for the game development and XR modules at XJTLU (CAT105TC / CAT204TC / CAT207TC).
+site_url: https://sonettogu14.github.io/gamedev-companion/
+repo_name: SonettoGu14/gamedev-companion
+repo_url: https://github.com/SonettoGu14/gamedev-companion
+edit_uri: edit/main/docs/
+copyright: Companion material for CAT105TC / CAT204TC / CAT207TC · XJTLU
+
+docs_dir: docs
+site_dir: site
+
+theme:
+  name: material
+  language: en
+  font: false
+  features:
+    - navigation.tracking
+    - navigation.sections
+    - navigation.indexes
+    - navigation.top
+    - navigation.footer
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - content.code.annotate
+    - toc.follow
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: teal
+      accent: teal
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: teal
+      accent: teal
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
+plugins:
+  - search:
+      separator: '[\s\-\.]+'
+  - i18n:
+      docs_structure: suffix
+      fallback_to_default: true
+      reconfigure_material: true
+      reconfigure_search: true
+      languages:
+        - locale: en
+          default: true
+          name: English
+          build: true
+        - locale: zh
+          name: 简体中文
+          build: true
+          nav_translations:
+            Home: 首页
+            How to use this site: 使用说明
+            Foundations: 基础
+            Overview: 概览
+            Vectors and the dot product: 向量与点乘
+            Shaders: 着色器
+            What happens in a shader: 着色器里发生了什么
+            XR: XR
+            Glossary: 术语表
+            Reference: 参考与配置
+
+nav:
+  - Home: index.md
+  - How to use this site: start/scope.md
+  - Foundations:
+      - Overview: foundations/index.md
+      - Vectors and the dot product: foundations/vectors-and-dot-product.md
+  - Shaders:
+      - Overview: shaders/index.md
+      - What happens in a shader: shaders/what-happens-in-a-shader.md
+  - XR:
+      - Overview: xr/index.md
+  - Glossary: glossary/index.md
+  - Reference: reference/index.md

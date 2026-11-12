@@ -1,0 +1,13 @@
+[project]
+name = "gamedev-companion"
+version = "0.1.0"
+description = "Bilingual companion site for the XJTLU game development and XR modules (CAT105TC / CAT204TC / CAT207TC)."
+requires-python = ">=3.9"
+dependencies = [
+    "mkdocs>=1.6",
+    "mkdocs-material>=9.6",
+    "mkdocs-static-i18n>=1.2",
+]
+
+[tool.uv]
+package = false
