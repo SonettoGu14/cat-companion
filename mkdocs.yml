@@ -83,6 +83,12 @@ plugins:
             Vectors and the dot product: 向量与点乘
             Shaders: 着色器
             What happens in a shader: 着色器里发生了什么
+            Narrative: 叙事手法
+            Narrative structure: 叙事结构
+            McGuffin: 麦高芬
+            The Hero's Journey: 英雄之路
+            Branching narrative: 网状叙事
+            High concept: 高概念
             XR: XR
             Glossary: 术语表
             Reference: 参考与配置
@@ -96,6 +102,13 @@ nav:
   - Shaders:
       - Overview: shaders/index.md
       - What happens in a shader: shaders/what-happens-in-a-shader.md
+  - Narrative:
+      - Overview: narrative/index.md
+      - Narrative structure:
+          - McGuffin: narrative/mcguffin.md
+          - The Hero's Journey: narrative/hero-journey.md
+          - Branching narrative: narrative/branching-narrative.md
+          - High concept: narrative/high-concept.md
   - XR:
       - Overview: xr/index.md
   - Glossary: glossary/index.md

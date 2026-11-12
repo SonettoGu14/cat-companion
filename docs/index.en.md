@@ -14,6 +14,7 @@ the small references that are faster to look up than to ask about.
 | --- | --- |
 | Building the Shader Graph work (CAT105TC, semester 2, weeks 14–17) | [What happens in a shader](shaders/what-happens-in-a-shader.md) |
 | Making hit-flash, dissolve or a skill indicator (CAT204TC) | [What happens in a shader](shaders/what-happens-in-a-shader.md), then [Vectors and the dot product](maths/vectors-and-dot-product.md) |
+| Writing the narrative part of a design document (CAT204TC, week 4) | [Narrative](narrative/index.md) |
 | Met an English term and cannot place it | [Glossary](glossary/index.md) |
 | Setting up the Pico 4 Ultra before a CAT207TC lab | [XR overview](xr/index.md) |
 | Wondering whether any of this is assessed | [How to use this site](start/scope.md) |
@@ -39,6 +40,8 @@ the moment the idea turns up in your own work.
   shows up in a shader or a script. Start here if a formula looks like a wall.
 - **[Shaders](shaders/index.md)** — what a shader actually computes, and why the effects
   you build in the lab behave the way they do.
+- **[Narrative](narrative/index.md)** — the devices stories are built from: the thing
+  everyone chases, the shape of the journey, the routes through events, the one sentence.
 - **[XR](xr/index.md)** — scale, comfort and the words VR uses.
 - **[Glossary](glossary/index.md)** — English term, Chinese term, one line of meaning.
 - **[Reference](reference/index.md)** — cheat sheets and setup notes, as they are written.

@@ -12,6 +12,7 @@ VR 的词汇，以及那些「查一下比问一句还快」的小参考。
 | --- | --- |
 | 做 Shader Graph 的作业（CAT105TC 第二学期，第 14–17 周） | [着色器里发生了什么](shaders/what-happens-in-a-shader.md) |
 | 做受击闪白、溶解、技能指示器（CAT204TC） | 先[着色器里发生了什么](shaders/what-happens-in-a-shader.md)，再[向量与点乘](maths/vectors-and-dot-product.md) |
+| 写设计文档里的叙事部分（CAT204TC 第 4 周） | [叙事手法](narrative/index.md) |
 | 看到一个术语，对不上号 | [术语表](glossary/index.md) |
 | CAT207TC 实验课前配置 Pico 4 Ultra | [XR 概览](xr/index.md) |
 | 想知道这些内容算不算分 | [使用说明](start/scope.md) |
@@ -32,6 +33,8 @@ VR 的词汇，以及那些「查一下比问一句还快」的小参考。
 - **[数学基础](maths/index.md)** —— 向量、矩阵、坐标空间、插值：着色器和脚本里真正用到的那点
   数学。公式看起来像一堵墙的时候，从这里开始。
 - **[着色器](shaders/index.md)** —— 着色器到底在算什么，以及实验课上做的效果为什么是那个行为。
+- **[叙事手法](narrative/index.md)** —— 故事是由零件拼起来的：所有人追的那样东西、旅程的形状、
+  事件之间的路线、以及那一句话。
 - **[XR](xr/index.md)** —— 尺度、舒适度，以及 VR 用的那些词。
 - **[术语表](glossary/index.md)** —— 英文、中文、一句话解释。
 - **[参考与配置](reference/index.md)** —— 速查表和配置笔记，写到哪算哪。
