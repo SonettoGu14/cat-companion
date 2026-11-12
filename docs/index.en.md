@@ -41,7 +41,7 @@ the moment the idea turns up in your own work.
 - **[Shaders](shaders/index.md)** — what a shader actually computes, and why the effects
   you build in the lab behave the way they do.
 - **[Narrative](narrative/index.md)** — the devices stories are built from: the thing
-  everyone chases, the shape of the journey, the routes through events, the one sentence.
+  everyone chases, the shape of the journey, the rules of the world, the one sentence.
 - **[XR](xr/index.md)** — scale, comfort and the words VR uses.
 - **[Glossary](glossary/index.md)** — English term, Chinese term, one line of meaning.
 - **[Reference](reference/index.md)** — cheat sheets and setup notes, as they are written.

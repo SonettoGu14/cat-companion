@@ -12,6 +12,20 @@ who controls it** — and a plot is what happens when different people give diff
 
 That is the whole point of this page: a setting is structure, not decoration.
 
+## The settings that come up most
+
+Three of them account for most student projects, and each has its own page here:
+
+| Setting | The question it is built on | Page |
+| --- | --- | --- |
+| High fantasy | Who is allowed to use magic — and why is not everyone using it | [High fantasy](high-fantasy.md) |
+| Cyberpunk | Who owns your body, and who is watching | [Cyberpunk](cyberpunk.md) |
+| Lovecraftian horror | What happens when you understand too much | [Lovecraftian horror](lovecraftian.md) |
+
+Everything else — post-apocalypse, space opera, historical, modern-day, abstract — runs on the
+same three jobs described below. These three get their own pages because their rules do the
+most structural work, and because they are the three most often copied from the surface.
+
 ## What a setting actually does
 
 Three jobs. If it does none of them, it is wallpaper.
@@ -83,9 +97,9 @@ six that sit side by side.
 
 ## Where this sits next to the other pages
 
-A setting is the **world layer**. The other pages here are the **plot layer**: [the McGuffin](mcguffin.md)
-is the thing that pulls the plot forward, [the Hero's Journey](hero-journey.md) is a shape
-for how it travels, [high concept](high-concept.md) is the one sentence that holds both.
+A setting is the **world layer**. The other pages here are the **plot layer**: [the McGuffin](../mcguffin.md)
+is the thing that pulls the plot forward, [the Hero's Journey](../hero-journey.md) is a shape
+for how it travels, [high concept](../high-concept.md) is the one sentence that holds both.
 
 They are not alternatives. A game usually needs all four, and the most common failure is a
 world layer nobody designed and a plot layer copied from a film.

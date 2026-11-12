@@ -88,6 +88,9 @@ plugins:
             McGuffin: 麦高芬
             The Hero's Journey: 英雄之路
             Worldbuilding: 世界观
+            High fantasy: 高魔
+            Cyberpunk: 赛博朋克
+            Lovecraftian horror: 洛夫克拉夫特式
             High concept: 高概念
             XR: XR
             Glossary: 术语表
@@ -107,8 +110,12 @@ nav:
       - Narrative structure:
           - McGuffin: narrative/mcguffin.md
           - The Hero's Journey: narrative/hero-journey.md
-          - Worldbuilding: narrative/worldbuilding.md
           - High concept: narrative/high-concept.md
+      - Worldbuilding:
+          - Overview: narrative/worldbuilding/index.md
+          - High fantasy: narrative/worldbuilding/high-fantasy.md
+          - Cyberpunk: narrative/worldbuilding/cyberpunk.md
+          - Lovecraftian horror: narrative/worldbuilding/lovecraftian.md
   - XR:
       - Overview: xr/index.md
   - Glossary: glossary/index.md

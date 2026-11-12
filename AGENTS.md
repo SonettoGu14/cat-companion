@@ -51,7 +51,8 @@ docs/
   start/scope.{en,zh}.md    使用说明与边界
   maths/                    游戏里真正用到的数学（向量与点乘已写）
   shaders/                  着色器原理与效果分解
-  narrative/                叙事手法：麦高芬、英雄之路、世界观、高概念（已写）
+  narrative/                叙事手法：情节层（麦高芬、英雄之路、高概念）
+  narrative/worldbuilding/  世界层：世界观总览 + 高魔、赛博朋克、洛夫克拉夫特式
   xr/                       XR 尺度、舒适度、词汇
   glossary/                 四张术语表（数学与空间 / 渲染与着色器 / XR / C# 与 Unity）
   reference/                速查与配置（尚未写）
@@ -66,9 +67,12 @@ pyproject.toml + uv.lock    依赖（uv 管理，勿用 pip/conda）
 `docs/index.*.md` 的「先看哪一页」表是**唯一**允许把主题映射到课程情境的地方 —— 它是索引，不是
 结构。
 
-**叙事板块用主题内的子组组织。** `nav:` 里 `Narrative` 下挂 `Overview` 和一个子组
-`Narrative structure`（`nav_translations` 写 `叙事结构`），四页叙事装置放在子组里；`index.en.md`
-的 H1 是 `Narrative`、`index.zh.md` 是 `叙事手法`。
+**叙事板块分两层组织。** `nav:` 里 `Narrative`（`nav_translations`：`叙事手法`）下挂
+`Overview`、子组 `Narrative structure`（`叙事结构`）和子组 `Worldbuilding`（`世界观`）。情节层的
+三页（麦高芬、英雄之路、高概念）在 `Narrative structure` 下；世界层是 `narrative/worldbuilding/`
+目录，`index.md` 是总览、下面挂具体设定类型（高魔、赛博朋克、洛夫克拉夫特式）。设定类型页的
+`nav_translations` 也要补，新增类型照这个结构加。板块本身 `index.en.md` 的 H1 是 `Narrative`、
+`index.zh.md` 是 `叙事手法`。
 
 ## 5. 加一页
 
