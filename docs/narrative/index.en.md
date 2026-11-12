@@ -13,7 +13,7 @@ working in a game you can actually play, shows it failing, and stops.
 | --- | --- |
 | [McGuffin](mcguffin.md) | Why the thing everyone is chasing can be almost anything — and when that is fine |
 | [The Hero's Journey](hero-journey.md) | The twelve-stage shape, and why copying it literally makes every game the same |
-| [Branching narrative](branching-narrative.md) | Linear, foldback, tree and web — what each one costs to build |
+| [Worldbuilding](worldbuilding.md) | The setting as a rule system — what magic can do, who controls it, what it costs |
 | [High concept](high-concept.md) | Saying the whole game in one sentence, and testing that the sentence is worth saying |
 
 ## How to read a page

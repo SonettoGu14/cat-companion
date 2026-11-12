@@ -51,7 +51,7 @@ docs/
   start/scope.{en,zh}.md    使用说明与边界
   maths/                    游戏里真正用到的数学（向量与点乘已写）
   shaders/                  着色器原理与效果分解
-  narrative/                叙事手法：麦高芬、英雄之路、网状叙事、高概念（已写）
+  narrative/                叙事手法：麦高芬、英雄之路、世界观、高概念（已写）
   xr/                       XR 尺度、舒适度、词汇
   glossary/                 四张术语表（数学与空间 / 渲染与着色器 / XR / C# 与 Unity）
   reference/                速查与配置（尚未写）

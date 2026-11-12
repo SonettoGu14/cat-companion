@@ -87,7 +87,7 @@ plugins:
             Narrative structure: 叙事结构
             McGuffin: 麦高芬
             The Hero's Journey: 英雄之路
-            Branching narrative: 网状叙事
+            Worldbuilding: 世界观
             High concept: 高概念
             XR: XR
             Glossary: 术语表
@@ -107,7 +107,7 @@ nav:
       - Narrative structure:
           - McGuffin: narrative/mcguffin.md
           - The Hero's Journey: narrative/hero-journey.md
-          - Branching narrative: narrative/branching-narrative.md
+          - Worldbuilding: narrative/worldbuilding.md
           - High concept: narrative/high-concept.md
   - XR:
       - Overview: xr/index.md
