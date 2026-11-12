@@ -80,8 +80,8 @@ CI 跑的是同一个 `build --strict`。
 
 ## 7. 部署与仓库
 
-- 仓库：`SonettoGu14/gamedev-companion`
-- 站点：`https://sonettogu14.github.io/gamedev-companion/`
+- 仓库：`SonettoGu14/cat-companion`
+- 站点：`https://sonettogu14.github.io/cat-companion/`
 - 首次推送后：仓库 Settings → Pages → Build and deployment → Source 选 **GitHub Actions**
 - **改名或换 GitHub 用户名要同步改三处**：`mkdocs.yml` 的 `site_url`、`repo_url`、`repo_name`。
 

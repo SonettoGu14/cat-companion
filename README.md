@@ -1,4 +1,4 @@
-# Game Dev Companion
+# CAT Companion
 
 Bilingual (EN / 中文) companion site for the XJTLU modules **CAT105TC**, **CAT204TC** and
 **CAT207TC**. It holds the material a 13-week or 26-week module cannot fit in — the maths

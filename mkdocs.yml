@@ -1,10 +1,10 @@
-site_name: Game Dev Companion
+site_name: CAT Companion
 site_description: Extra, bilingual material for the game development and XR modules at XJTLU (CAT105TC / CAT204TC / CAT207TC).
-site_url: https://sonettogu14.github.io/gamedev-companion/
-repo_name: SonettoGu14/gamedev-companion
-repo_url: https://github.com/SonettoGu14/gamedev-companion
+site_url: https://sonettogu14.github.io/cat-companion/
+repo_name: SonettoGu14/cat-companion
+repo_url: https://github.com/SonettoGu14/cat-companion
 edit_uri: edit/main/docs/
-copyright: Companion material for CAT105TC / CAT204TC / CAT207TC · XJTLU
+copyright: Yankuang Gu · Companion material for CAT105TC / CAT204TC / CAT207TC
 
 docs_dir: docs
 site_dir: site

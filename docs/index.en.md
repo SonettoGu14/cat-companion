@@ -1,4 +1,4 @@
-# Game Dev Companion
+# CAT Companion
 
 Extra material for the game development and XR modules at XJTLU. It covers the parts a
 timetable cannot hold: the maths that sits underneath a shader, the vocabulary of VR, and
