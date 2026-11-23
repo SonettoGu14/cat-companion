@@ -6,11 +6,11 @@ CAT105TC / CAT204TC / CAT207TC 三门课的**「不用开口的助教」**：学
 补充材料站。以 **AY26-27** 为参照学年。
 
 它不是课程材料的副本，也不是课程的第二份讲义。课程本体的规则在
-`/Users/gyk/Documents/Work/AY26-27/AGENTS.md`，本文件只写本站自己的规矩。
+`~/Documents/Work/AY26-27/AGENTS.md`，本文件只写本站自己的规矩。
 
 ## 1. 与课程本体的关系：索引，不复制
 
-课程本体在 `/Users/gyk/Documents/Work/AY26-27`（git repo `SonettoGu14/AY26-27`，private）。
+课程本体在 `~/Documents/Work/AY26-27`（git repo `SonettoGu14/AY26-27`，private）。
 
 | 需要判断的事 | 去课程本体读 |
 | --- | --- |
